@@ -1,0 +1,24 @@
+{
+  "name": "atvidadeptac-11.09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjoriesantos-netizen/atvidadeptac-11.09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/marjoriesantos-netizen/atvidadeptac-11.09/issues"
+  },
+  "homepage": "https://github.com/marjoriesantos-netizen/atvidadeptac-11.09#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
